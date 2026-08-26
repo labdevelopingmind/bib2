@@ -1,0 +1,2885 @@
+{
+  "participants": {
+    "J94Zv2": {
+      "task_order": [
+        "Social",
+        "Ambiguous",
+        "Mime",
+        "Ritual",
+        "Asocial",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f2_t2",
+        "Competence": "Competence_D_B_L_t1",
+        "Ritual": "Ritual_D_O_R_t2",
+        "Mime": "Mime_D_G_L_t2",
+        "Ambiguous": "Ambiguous_C_G_R_f1_t1",
+        "Social": "Social_D_P_L_f2_t1"
+      }
+    },
+    "vg6nfi": {
+      "task_order": [
+        "Competence",
+        "Asocial",
+        "Social",
+        "Ambiguous",
+        "Ritual",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f2_t1",
+        "Competence": "Competence_D_R_L_t2",
+        "Ritual": "Ritual_D_P_R_t1",
+        "Mime": "Mime_C_G_L_t1",
+        "Ambiguous": "Ambiguous_C_G_R_f2_t1",
+        "Social": "Social_C_P_L_f2_t1"
+      }
+    },
+    "GmfV8b": {
+      "task_order": [
+        "Competence",
+        "Asocial",
+        "Ritual",
+        "Mime",
+        "Ambiguous",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f1_t2",
+        "Competence": "Competence_D_R_R_t1",
+        "Ritual": "Ritual_D_O_R_t1",
+        "Mime": "Mime_D_G_L_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f1_t2",
+        "Social": "Social_C_B_L_f2_t1"
+      }
+    },
+    "Gfjb0a": {
+      "task_order": [
+        "Mime",
+        "Asocial",
+        "Ambiguous",
+        "Social",
+        "Ritual",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f2_t2",
+        "Competence": "Competence_C_B_R_t2",
+        "Ritual": "Ritual_C_P_R_t2",
+        "Mime": "Mime_D_G_R_t1",
+        "Ambiguous": "Ambiguous_C_G_L_f2_t2",
+        "Social": "Social_C_B_L_f2_t1"
+      }
+    },
+    "erZHfu": {
+      "task_order": [
+        "Ambiguous",
+        "Social",
+        "Mime",
+        "Competence",
+        "Asocial",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f1_t1",
+        "Competence": "Competence_C_R_R_t1",
+        "Ritual": "Ritual_C_O_R_t2",
+        "Mime": "Mime_D_P_L_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f2_t2",
+        "Social": "Social_C_B_R_f1_t2"
+      }
+    },
+    "4xKJh1": {
+      "task_order": [
+        "Mime",
+        "Ambiguous",
+        "Asocial",
+        "Competence",
+        "Social",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f2_t1",
+        "Competence": "Competence_D_R_R_t2",
+        "Ritual": "Ritual_D_O_R_t1",
+        "Mime": "Mime_D_G_L_t2",
+        "Ambiguous": "Ambiguous_C_G_L_f1_t1",
+        "Social": "Social_C_B_R_f1_t1"
+      }
+    },
+    "Gy9Ka3": {
+      "task_order": [
+        "Mime",
+        "Ritual",
+        "Competence",
+        "Social",
+        "Ambiguous",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f2_t2",
+        "Competence": "Competence_C_B_L_t2",
+        "Ritual": "Ritual_C_P_R_t1",
+        "Mime": "Mime_D_P_L_t1",
+        "Ambiguous": "Ambiguous_C_G_R_f2_t1",
+        "Social": "Social_D_P_L_f2_t2"
+      }
+    },
+    "ekkcFj": {
+      "task_order": [
+        "Social",
+        "Ambiguous",
+        "Ritual",
+        "Asocial",
+        "Mime",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f1_t1",
+        "Competence": "Competence_C_R_R_t2",
+        "Ritual": "Ritual_D_O_L_t1",
+        "Mime": "Mime_D_G_L_t1",
+        "Ambiguous": "Ambiguous_C_B_L_f2_t1",
+        "Social": "Social_C_B_L_f2_t2"
+      }
+    },
+    "25KRq7": {
+      "task_order": [
+        "Social",
+        "Mime",
+        "Competence",
+        "Ambiguous",
+        "Ritual",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f2_t2",
+        "Competence": "Competence_D_R_L_t1",
+        "Ritual": "Ritual_C_P_R_t1",
+        "Mime": "Mime_D_G_R_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f1_t2",
+        "Social": "Social_C_P_L_f2_t1"
+      }
+    },
+    "QnmSD6": {
+      "task_order": [
+        "Mime",
+        "Asocial",
+        "Social",
+        "Competence",
+        "Ritual",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f1_t1",
+        "Competence": "Competence_C_B_R_t1",
+        "Ritual": "Ritual_C_P_L_t2",
+        "Mime": "Mime_C_G_R_t2",
+        "Ambiguous": "Ambiguous_C_B_R_f1_t2",
+        "Social": "Social_D_P_L_f2_t1"
+      }
+    },
+    "W287j6": {
+      "task_order": [
+        "Mime",
+        "Ambiguous",
+        "Social",
+        "Competence",
+        "Asocial",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f1_t2",
+        "Competence": "Competence_C_R_R_t2",
+        "Ritual": "Ritual_C_P_R_t1",
+        "Mime": "Mime_C_G_L_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f2_t2",
+        "Social": "Social_C_B_L_f1_t2"
+      }
+    },
+    "arXmSM": {
+      "task_order": [
+        "Ritual",
+        "Social",
+        "Competence",
+        "Asocial",
+        "Mime",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f1_t2",
+        "Competence": "Competence_D_B_L_t2",
+        "Ritual": "Ritual_D_O_R_t2",
+        "Mime": "Mime_D_P_R_t2",
+        "Ambiguous": "Ambiguous_D_G_R_f1_t1",
+        "Social": "Social_D_B_R_f2_t2"
+      }
+    },
+    "panPmy": {
+      "task_order": [
+        "Ambiguous",
+        "Ritual",
+        "Mime",
+        "Asocial",
+        "Social",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f2_t1",
+        "Competence": "Competence_D_B_L_t2",
+        "Ritual": "Ritual_C_O_R_t1",
+        "Mime": "Mime_D_G_L_t1",
+        "Ambiguous": "Ambiguous_C_B_R_f1_t2",
+        "Social": "Social_C_B_R_f2_t1"
+      }
+    },
+    "kxR2FE": {
+      "task_order": [
+        "Asocial",
+        "Ambiguous",
+        "Social",
+        "Competence",
+        "Ritual",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f2_t1",
+        "Competence": "Competence_D_R_R_t1",
+        "Ritual": "Ritual_D_P_L_t1",
+        "Mime": "Mime_C_G_L_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f2_t2",
+        "Social": "Social_D_P_R_f2_t2"
+      }
+    },
+    "xaR142": {
+      "task_order": [
+        "Competence",
+        "Mime",
+        "Social",
+        "Asocial",
+        "Ambiguous",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f2_t1",
+        "Competence": "Competence_D_B_L_t1",
+        "Ritual": "Ritual_D_P_L_t2",
+        "Mime": "Mime_D_G_L_t1",
+        "Ambiguous": "Ambiguous_C_G_L_f1_t2",
+        "Social": "Social_D_P_L_f2_t2"
+      }
+    },
+    "XuMBru": {
+      "task_order": [
+        "Mime",
+        "Ritual",
+        "Ambiguous",
+        "Social",
+        "Asocial",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f1_t2",
+        "Competence": "Competence_D_B_R_t2",
+        "Ritual": "Ritual_C_P_L_t2",
+        "Mime": "Mime_D_G_R_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f2_t2",
+        "Social": "Social_C_P_L_f1_t1"
+      }
+    },
+    "H6MHcD": {
+      "task_order": [
+        "Competence",
+        "Ambiguous",
+        "Mime",
+        "Social",
+        "Asocial",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f1_t1",
+        "Competence": "Competence_C_B_L_t2",
+        "Ritual": "Ritual_D_O_L_t2",
+        "Mime": "Mime_C_G_L_t2",
+        "Ambiguous": "Ambiguous_D_G_L_f1_t1",
+        "Social": "Social_D_P_R_f2_t1"
+      }
+    },
+    "wLXX9W": {
+      "task_order": [
+        "Ritual",
+        "Social",
+        "Mime",
+        "Competence",
+        "Ambiguous",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f2_t2",
+        "Competence": "Competence_D_B_L_t2",
+        "Ritual": "Ritual_C_P_R_t1",
+        "Mime": "Mime_C_P_R_t2",
+        "Ambiguous": "Ambiguous_D_G_L_f1_t1",
+        "Social": "Social_D_P_L_f2_t2"
+      }
+    },
+    "0n6wqu": {
+      "task_order": [
+        "Ritual",
+        "Asocial",
+        "Social",
+        "Ambiguous",
+        "Mime",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f2_t1",
+        "Competence": "Competence_C_R_L_t1",
+        "Ritual": "Ritual_D_P_L_t1",
+        "Mime": "Mime_C_G_L_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f1_t1",
+        "Social": "Social_D_B_L_f1_t1"
+      }
+    },
+    "v5gf7u": {
+      "task_order": [
+        "Mime",
+        "Competence",
+        "Asocial",
+        "Ambiguous",
+        "Ritual",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f2_t1",
+        "Competence": "Competence_C_B_R_t2",
+        "Ritual": "Ritual_C_O_L_t2",
+        "Mime": "Mime_C_G_L_t1",
+        "Ambiguous": "Ambiguous_C_B_R_f1_t1",
+        "Social": "Social_C_P_L_f2_t1"
+      }
+    },
+    "ZY3njR": {
+      "task_order": [
+        "Ritual",
+        "Social",
+        "Competence",
+        "Asocial",
+        "Ambiguous",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f1_t2",
+        "Competence": "Competence_D_R_R_t1",
+        "Ritual": "Ritual_C_O_R_t1",
+        "Mime": "Mime_D_G_L_t1",
+        "Ambiguous": "Ambiguous_C_B_L_f2_t1",
+        "Social": "Social_D_B_L_f2_t1"
+      }
+    },
+    "c4W4DH": {
+      "task_order": [
+        "Asocial",
+        "Mime",
+        "Ritual",
+        "Social",
+        "Ambiguous",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f1_t2",
+        "Competence": "Competence_C_R_R_t2",
+        "Ritual": "Ritual_D_O_L_t2",
+        "Mime": "Mime_C_G_R_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f1_t1",
+        "Social": "Social_C_B_L_f2_t2"
+      }
+    },
+    "RMv1Mq": {
+      "task_order": [
+        "Social",
+        "Competence",
+        "Mime",
+        "Asocial",
+        "Ritual",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f2_t2",
+        "Competence": "Competence_C_B_L_t1",
+        "Ritual": "Ritual_C_P_L_t2",
+        "Mime": "Mime_D_P_R_t1",
+        "Ambiguous": "Ambiguous_C_G_L_f2_t2",
+        "Social": "Social_D_P_L_f1_t1"
+      }
+    },
+    "MwG8BM": {
+      "task_order": [
+        "Competence",
+        "Mime",
+        "Asocial",
+        "Ritual",
+        "Ambiguous",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f2_t2",
+        "Competence": "Competence_D_B_L_t1",
+        "Ritual": "Ritual_C_P_L_t1",
+        "Mime": "Mime_C_G_L_t1",
+        "Ambiguous": "Ambiguous_D_B_L_f2_t2",
+        "Social": "Social_C_B_R_f2_t1"
+      }
+    },
+    "XnqXdW": {
+      "task_order": [
+        "Social",
+        "Competence",
+        "Ritual",
+        "Ambiguous",
+        "Asocial",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f1_t2",
+        "Competence": "Competence_C_B_R_t2",
+        "Ritual": "Ritual_D_O_L_t1",
+        "Mime": "Mime_C_P_L_t1",
+        "Ambiguous": "Ambiguous_C_B_R_f2_t1",
+        "Social": "Social_D_P_R_f2_t1"
+      }
+    },
+    "B9GPWZ": {
+      "task_order": [
+        "Competence",
+        "Social",
+        "Ritual",
+        "Ambiguous",
+        "Asocial",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f1_t1",
+        "Competence": "Competence_D_R_R_t2",
+        "Ritual": "Ritual_D_P_R_t1",
+        "Mime": "Mime_D_P_R_t2",
+        "Ambiguous": "Ambiguous_D_G_L_f2_t1",
+        "Social": "Social_D_P_L_f1_t2"
+      }
+    },
+    "69jtDV": {
+      "task_order": [
+        "Ambiguous",
+        "Social",
+        "Asocial",
+        "Mime",
+        "Ritual",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f1_t2",
+        "Competence": "Competence_C_R_L_t2",
+        "Ritual": "Ritual_D_O_R_t1",
+        "Mime": "Mime_C_G_L_t2",
+        "Ambiguous": "Ambiguous_C_G_R_f1_t1",
+        "Social": "Social_C_B_R_f1_t2"
+      }
+    },
+    "CDeKkr": {
+      "task_order": [
+        "Competence",
+        "Ritual",
+        "Social",
+        "Mime",
+        "Asocial",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f2_t1",
+        "Competence": "Competence_D_B_L_t2",
+        "Ritual": "Ritual_C_O_L_t2",
+        "Mime": "Mime_D_P_R_t2",
+        "Ambiguous": "Ambiguous_C_G_R_f2_t1",
+        "Social": "Social_C_P_R_f2_t1"
+      }
+    },
+    "cj3j33": {
+      "task_order": [
+        "Asocial",
+        "Ritual",
+        "Mime",
+        "Ambiguous",
+        "Competence",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f2_t1",
+        "Competence": "Competence_D_B_R_t2",
+        "Ritual": "Ritual_C_O_R_t1",
+        "Mime": "Mime_D_P_L_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f2_t2",
+        "Social": "Social_C_P_L_f1_t2"
+      }
+    },
+    "kGpy9B": {
+      "task_order": [
+        "Social",
+        "Mime",
+        "Competence",
+        "Ambiguous",
+        "Asocial",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f1_t2",
+        "Competence": "Competence_D_B_R_t1",
+        "Ritual": "Ritual_C_O_L_t2",
+        "Mime": "Mime_C_G_R_t2",
+        "Ambiguous": "Ambiguous_C_G_L_f2_t1",
+        "Social": "Social_C_B_R_f2_t2"
+      }
+    },
+    "G4AYjA": {
+      "task_order": [
+        "Ambiguous",
+        "Ritual",
+        "Competence",
+        "Asocial",
+        "Social",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f1_t2",
+        "Competence": "Competence_C_B_L_t1",
+        "Ritual": "Ritual_C_O_L_t2",
+        "Mime": "Mime_D_G_L_t1",
+        "Ambiguous": "Ambiguous_D_G_L_f2_t2",
+        "Social": "Social_C_P_R_f1_t2"
+      }
+    },
+    "CpDgiJ": {
+      "task_order": [
+        "Ritual",
+        "Mime",
+        "Social",
+        "Competence",
+        "Asocial",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f2_t2",
+        "Competence": "Competence_D_R_R_t2",
+        "Ritual": "Ritual_C_O_R_t2",
+        "Mime": "Mime_C_G_R_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f1_t1",
+        "Social": "Social_D_B_R_f1_t1"
+      }
+    },
+    "aRh4Pw": {
+      "task_order": [
+        "Ambiguous",
+        "Competence",
+        "Mime",
+        "Ritual",
+        "Asocial",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f1_t2",
+        "Competence": "Competence_C_R_R_t1",
+        "Ritual": "Ritual_C_O_L_t1",
+        "Mime": "Mime_C_P_L_t1",
+        "Ambiguous": "Ambiguous_D_G_L_f1_t2",
+        "Social": "Social_C_P_R_f2_t1"
+      }
+    },
+    "x67jA3": {
+      "task_order": [
+        "Competence",
+        "Ritual",
+        "Ambiguous",
+        "Mime",
+        "Asocial",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f2_t2",
+        "Competence": "Competence_D_B_R_t2",
+        "Ritual": "Ritual_D_O_R_t1",
+        "Mime": "Mime_D_G_R_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f2_t1",
+        "Social": "Social_D_P_R_f2_t2"
+      }
+    },
+    "83QD2z": {
+      "task_order": [
+        "Competence",
+        "Ritual",
+        "Ambiguous",
+        "Social",
+        "Asocial",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f1_t1",
+        "Competence": "Competence_D_R_L_t1",
+        "Ritual": "Ritual_D_O_R_t2",
+        "Mime": "Mime_C_G_L_t2",
+        "Ambiguous": "Ambiguous_C_B_R_f2_t2",
+        "Social": "Social_C_B_R_f2_t1"
+      }
+    },
+    "2ARJHH": {
+      "task_order": [
+        "Competence",
+        "Social",
+        "Ritual",
+        "Mime",
+        "Asocial",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f2_t2",
+        "Competence": "Competence_C_R_L_t1",
+        "Ritual": "Ritual_C_P_R_t1",
+        "Mime": "Mime_C_P_L_t1",
+        "Ambiguous": "Ambiguous_C_G_L_f1_t1",
+        "Social": "Social_D_B_R_f1_t2"
+      }
+    },
+    "LkhFNq": {
+      "task_order": [
+        "Mime",
+        "Competence",
+        "Ritual",
+        "Ambiguous",
+        "Social",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f1_t1",
+        "Competence": "Competence_D_B_R_t1",
+        "Ritual": "Ritual_D_O_R_t1",
+        "Mime": "Mime_C_P_L_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f1_t2",
+        "Social": "Social_C_P_R_f2_t1"
+      }
+    },
+    "Ccnib0": {
+      "task_order": [
+        "Asocial",
+        "Ambiguous",
+        "Ritual",
+        "Social",
+        "Competence",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f1_t1",
+        "Competence": "Competence_C_R_L_t1",
+        "Ritual": "Ritual_C_P_R_t2",
+        "Mime": "Mime_C_P_L_t2",
+        "Ambiguous": "Ambiguous_D_G_L_f2_t1",
+        "Social": "Social_D_P_L_f1_t1"
+      }
+    },
+    "gbvUaR": {
+      "task_order": [
+        "Social",
+        "Asocial",
+        "Mime",
+        "Ambiguous",
+        "Ritual",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f2_t2",
+        "Competence": "Competence_C_B_L_t1",
+        "Ritual": "Ritual_D_P_R_t2",
+        "Mime": "Mime_D_P_L_t2",
+        "Ambiguous": "Ambiguous_D_G_L_f1_t2",
+        "Social": "Social_C_B_R_f2_t2"
+      }
+    },
+    "bzrvTA": {
+      "task_order": [
+        "Ambiguous",
+        "Mime",
+        "Competence",
+        "Asocial",
+        "Social",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f2_t2",
+        "Competence": "Competence_C_B_L_t1",
+        "Ritual": "Ritual_D_P_R_t2",
+        "Mime": "Mime_C_G_R_t1",
+        "Ambiguous": "Ambiguous_C_G_L_f1_t2",
+        "Social": "Social_D_B_L_f2_t1"
+      }
+    },
+    "GMr2S7": {
+      "task_order": [
+        "Mime",
+        "Asocial",
+        "Ambiguous",
+        "Ritual",
+        "Social",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f2_t1",
+        "Competence": "Competence_D_R_L_t1",
+        "Ritual": "Ritual_C_O_L_t1",
+        "Mime": "Mime_C_G_L_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f1_t2",
+        "Social": "Social_D_B_L_f2_t1"
+      }
+    },
+    "JnMSME": {
+      "task_order": [
+        "Competence",
+        "Asocial",
+        "Social",
+        "Ambiguous",
+        "Mime",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f1_t2",
+        "Competence": "Competence_D_R_R_t2",
+        "Ritual": "Ritual_D_O_R_t2",
+        "Mime": "Mime_D_P_L_t1",
+        "Ambiguous": "Ambiguous_D_B_L_f1_t1",
+        "Social": "Social_D_B_R_f2_t2"
+      }
+    },
+    "kRWAaz": {
+      "task_order": [
+        "Social",
+        "Ritual",
+        "Ambiguous",
+        "Asocial",
+        "Competence",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f1_t1",
+        "Competence": "Competence_D_B_L_t1",
+        "Ritual": "Ritual_C_O_R_t1",
+        "Mime": "Mime_C_P_R_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f1_t2",
+        "Social": "Social_C_P_R_f1_t1"
+      }
+    },
+    "YKXf9z": {
+      "task_order": [
+        "Ambiguous",
+        "Competence",
+        "Mime",
+        "Ritual",
+        "Social",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f1_t1",
+        "Competence": "Competence_C_R_R_t2",
+        "Ritual": "Ritual_C_P_L_t2",
+        "Mime": "Mime_C_G_L_t1",
+        "Ambiguous": "Ambiguous_D_B_L_f2_t1",
+        "Social": "Social_D_B_L_f2_t2"
+      }
+    },
+    "VJ9xLk": {
+      "task_order": [
+        "Ambiguous",
+        "Mime",
+        "Social",
+        "Asocial",
+        "Competence",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f2_t1",
+        "Competence": "Competence_D_R_R_t2",
+        "Ritual": "Ritual_D_P_L_t2",
+        "Mime": "Mime_C_P_R_t1",
+        "Ambiguous": "Ambiguous_C_G_L_f2_t1",
+        "Social": "Social_D_B_L_f2_t2"
+      }
+    },
+    "8rtuXr": {
+      "task_order": [
+        "Asocial",
+        "Competence",
+        "Ritual",
+        "Social",
+        "Ambiguous",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f1_t2",
+        "Competence": "Competence_D_R_L_t2",
+        "Ritual": "Ritual_C_P_L_t2",
+        "Mime": "Mime_D_P_L_t2",
+        "Ambiguous": "Ambiguous_C_G_L_f1_t2",
+        "Social": "Social_C_P_R_f2_t1"
+      }
+    },
+    "Pvi4vv": {
+      "task_order": [
+        "Competence",
+        "Ritual",
+        "Ambiguous",
+        "Social",
+        "Mime",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f1_t2",
+        "Competence": "Competence_D_B_R_t1",
+        "Ritual": "Ritual_D_O_L_t1",
+        "Mime": "Mime_D_P_R_t2",
+        "Ambiguous": "Ambiguous_D_B_L_f1_t2",
+        "Social": "Social_C_B_R_f1_t1"
+      }
+    },
+    "NrSeLQ": {
+      "task_order": [
+        "Ambiguous",
+        "Social",
+        "Competence",
+        "Ritual",
+        "Mime",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f2_t2",
+        "Competence": "Competence_D_R_L_t1",
+        "Ritual": "Ritual_D_O_R_t2",
+        "Mime": "Mime_D_P_R_t1",
+        "Ambiguous": "Ambiguous_C_G_L_f2_t2",
+        "Social": "Social_C_P_L_f2_t2"
+      }
+    },
+    "aMzmT6": {
+      "task_order": [
+        "Social",
+        "Mime",
+        "Ambiguous",
+        "Asocial",
+        "Ritual",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f2_t2",
+        "Competence": "Competence_C_R_R_t2",
+        "Ritual": "Ritual_D_P_R_t2",
+        "Mime": "Mime_D_P_R_t2",
+        "Ambiguous": "Ambiguous_D_G_R_f2_t2",
+        "Social": "Social_D_P_L_f1_t1"
+      }
+    },
+    "VArEtn": {
+      "task_order": [
+        "Competence",
+        "Ritual",
+        "Mime",
+        "Asocial",
+        "Social",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f1_t2",
+        "Competence": "Competence_C_R_L_t1",
+        "Ritual": "Ritual_D_P_R_t2",
+        "Mime": "Mime_D_P_L_t2",
+        "Ambiguous": "Ambiguous_C_G_R_f2_t2",
+        "Social": "Social_D_B_R_f2_t2"
+      }
+    },
+    "VA1VQ5": {
+      "task_order": [
+        "Competence",
+        "Ambiguous",
+        "Asocial",
+        "Ritual",
+        "Mime",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f2_t1",
+        "Competence": "Competence_C_B_R_t2",
+        "Ritual": "Ritual_C_O_L_t1",
+        "Mime": "Mime_C_G_R_t1",
+        "Ambiguous": "Ambiguous_C_B_L_f1_t2",
+        "Social": "Social_C_P_L_f1_t1"
+      }
+    },
+    "Q68qjP": {
+      "task_order": [
+        "Ambiguous",
+        "Social",
+        "Ritual",
+        "Mime",
+        "Competence",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f1_t1",
+        "Competence": "Competence_C_B_L_t2",
+        "Ritual": "Ritual_D_O_R_t1",
+        "Mime": "Mime_C_P_L_t1",
+        "Ambiguous": "Ambiguous_C_G_L_f1_t1",
+        "Social": "Social_D_P_L_f1_t2"
+      }
+    },
+    "yJwgvf": {
+      "task_order": [
+        "Social",
+        "Ritual",
+        "Mime",
+        "Asocial",
+        "Competence",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f1_t2",
+        "Competence": "Competence_D_B_R_t2",
+        "Ritual": "Ritual_C_P_L_t1",
+        "Mime": "Mime_D_G_R_t2",
+        "Ambiguous": "Ambiguous_D_B_L_f1_t2",
+        "Social": "Social_D_P_L_f1_t2"
+      }
+    },
+    "X1GmK7": {
+      "task_order": [
+        "Ritual",
+        "Competence",
+        "Asocial",
+        "Social",
+        "Mime",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f2_t1",
+        "Competence": "Competence_C_B_L_t2",
+        "Ritual": "Ritual_C_P_R_t1",
+        "Mime": "Mime_C_G_L_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f1_t1",
+        "Social": "Social_C_P_L_f2_t1"
+      }
+    },
+    "i87p1D": {
+      "task_order": [
+        "Ritual",
+        "Competence",
+        "Asocial",
+        "Social",
+        "Ambiguous",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f2_t1",
+        "Competence": "Competence_D_B_R_t2",
+        "Ritual": "Ritual_C_P_R_t2",
+        "Mime": "Mime_D_G_L_t2",
+        "Ambiguous": "Ambiguous_D_G_R_f2_t2",
+        "Social": "Social_D_B_R_f2_t1"
+      }
+    },
+    "zTyDqE": {
+      "task_order": [
+        "Competence",
+        "Mime",
+        "Ambiguous",
+        "Ritual",
+        "Asocial",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f1_t2",
+        "Competence": "Competence_C_R_L_t1",
+        "Ritual": "Ritual_D_P_L_t1",
+        "Mime": "Mime_D_G_R_t2",
+        "Ambiguous": "Ambiguous_C_B_R_f2_t2",
+        "Social": "Social_C_B_L_f1_t1"
+      }
+    },
+    "fXK51H": {
+      "task_order": [
+        "Competence",
+        "Ambiguous",
+        "Mime",
+        "Asocial",
+        "Ritual",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f2_t2",
+        "Competence": "Competence_D_R_L_t1",
+        "Ritual": "Ritual_C_P_R_t2",
+        "Mime": "Mime_D_P_R_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f2_t1",
+        "Social": "Social_D_P_L_f2_t1"
+      }
+    },
+    "XMpSdu": {
+      "task_order": [
+        "Social",
+        "Mime",
+        "Asocial",
+        "Ambiguous",
+        "Ritual",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f2_t2",
+        "Competence": "Competence_D_B_R_t2",
+        "Ritual": "Ritual_C_P_R_t1",
+        "Mime": "Mime_C_P_R_t2",
+        "Ambiguous": "Ambiguous_D_B_L_f1_t2",
+        "Social": "Social_D_B_L_f2_t2"
+      }
+    },
+    "2XpFYg": {
+      "task_order": [
+        "Competence",
+        "Ritual",
+        "Mime",
+        "Social",
+        "Ambiguous",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f2_t1",
+        "Competence": "Competence_D_R_L_t2",
+        "Ritual": "Ritual_C_O_R_t1",
+        "Mime": "Mime_D_P_R_t1",
+        "Ambiguous": "Ambiguous_C_G_R_f2_t2",
+        "Social": "Social_D_B_R_f1_t2"
+      }
+    },
+    "PgmcMz": {
+      "task_order": [
+        "Competence",
+        "Ritual",
+        "Mime",
+        "Ambiguous",
+        "Social",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f2_t2",
+        "Competence": "Competence_D_R_R_t1",
+        "Ritual": "Ritual_D_P_R_t2",
+        "Mime": "Mime_C_G_L_t1",
+        "Ambiguous": "Ambiguous_D_B_L_f2_t2",
+        "Social": "Social_D_B_R_f1_t1"
+      }
+    },
+    "wfXXPV": {
+      "task_order": [
+        "Social",
+        "Ritual",
+        "Asocial",
+        "Mime",
+        "Ambiguous",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f1_t2",
+        "Competence": "Competence_C_B_R_t2",
+        "Ritual": "Ritual_C_O_L_t1",
+        "Mime": "Mime_C_G_R_t2",
+        "Ambiguous": "Ambiguous_C_B_R_f2_t1",
+        "Social": "Social_D_B_R_f1_t2"
+      }
+    },
+    "79nd96": {
+      "task_order": [
+        "Ambiguous",
+        "Asocial",
+        "Social",
+        "Competence",
+        "Ritual",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f2_t2",
+        "Competence": "Competence_C_B_R_t2",
+        "Ritual": "Ritual_C_O_R_t2",
+        "Mime": "Mime_C_G_R_t1",
+        "Ambiguous": "Ambiguous_D_B_L_f2_t1",
+        "Social": "Social_C_P_L_f2_t2"
+      }
+    },
+    "dU6SPB": {
+      "task_order": [
+        "Competence",
+        "Mime",
+        "Ambiguous",
+        "Social",
+        "Asocial",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f1_t1",
+        "Competence": "Competence_D_B_L_t2",
+        "Ritual": "Ritual_C_P_L_t1",
+        "Mime": "Mime_C_G_L_t1",
+        "Ambiguous": "Ambiguous_C_G_L_f1_t1",
+        "Social": "Social_D_P_L_f1_t1"
+      }
+    },
+    "FiXue4": {
+      "task_order": [
+        "Ritual",
+        "Ambiguous",
+        "Competence",
+        "Asocial",
+        "Mime",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f2_t2",
+        "Competence": "Competence_D_R_R_t1",
+        "Ritual": "Ritual_C_O_R_t1",
+        "Mime": "Mime_C_G_R_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f2_t2",
+        "Social": "Social_D_B_R_f1_t2"
+      }
+    },
+    "ZwtYJ7": {
+      "task_order": [
+        "Asocial",
+        "Social",
+        "Mime",
+        "Competence",
+        "Ambiguous",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f1_t1",
+        "Competence": "Competence_C_R_L_t2",
+        "Ritual": "Ritual_D_O_L_t2",
+        "Mime": "Mime_D_P_L_t1",
+        "Ambiguous": "Ambiguous_D_B_R_f2_t1",
+        "Social": "Social_D_P_R_f2_t2"
+      }
+    },
+    "7UUEz9": {
+      "task_order": [
+        "Competence",
+        "Social",
+        "Asocial",
+        "Mime",
+        "Ritual",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f2_t1",
+        "Competence": "Competence_C_R_R_t1",
+        "Ritual": "Ritual_D_P_L_t2",
+        "Mime": "Mime_C_P_R_t2",
+        "Ambiguous": "Ambiguous_C_G_L_f1_t2",
+        "Social": "Social_D_B_L_f2_t2"
+      }
+    },
+    "6h81vc": {
+      "task_order": [
+        "Competence",
+        "Ritual",
+        "Ambiguous",
+        "Asocial",
+        "Mime",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f1_t2",
+        "Competence": "Competence_C_B_R_t1",
+        "Ritual": "Ritual_D_P_R_t2",
+        "Mime": "Mime_D_P_R_t2",
+        "Ambiguous": "Ambiguous_D_B_L_f2_t1",
+        "Social": "Social_D_B_L_f1_t1"
+      }
+    },
+    "pLWiVU": {
+      "task_order": [
+        "Competence",
+        "Ritual",
+        "Social",
+        "Ambiguous",
+        "Asocial",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f1_t1",
+        "Competence": "Competence_D_B_R_t2",
+        "Ritual": "Ritual_C_P_L_t2",
+        "Mime": "Mime_D_G_L_t1",
+        "Ambiguous": "Ambiguous_D_G_L_f2_t2",
+        "Social": "Social_D_B_L_f1_t1"
+      }
+    },
+    "i81FU9": {
+      "task_order": [
+        "Ritual",
+        "Asocial",
+        "Ambiguous",
+        "Mime",
+        "Competence",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f1_t2",
+        "Competence": "Competence_C_R_L_t2",
+        "Ritual": "Ritual_C_P_R_t2",
+        "Mime": "Mime_C_P_L_t1",
+        "Ambiguous": "Ambiguous_C_G_R_f2_t2",
+        "Social": "Social_D_P_R_f2_t2"
+      }
+    },
+    "LAXVCJ": {
+      "task_order": [
+        "Ambiguous",
+        "Competence",
+        "Asocial",
+        "Mime",
+        "Ritual",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f1_t1",
+        "Competence": "Competence_D_R_L_t2",
+        "Ritual": "Ritual_C_O_L_t2",
+        "Mime": "Mime_D_P_L_t1",
+        "Ambiguous": "Ambiguous_C_B_L_f1_t1",
+        "Social": "Social_D_P_L_f1_t1"
+      }
+    },
+    "Nw7tBn": {
+      "task_order": [
+        "Asocial",
+        "Ambiguous",
+        "Social",
+        "Competence",
+        "Mime",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f2_t2",
+        "Competence": "Competence_D_R_R_t1",
+        "Ritual": "Ritual_C_O_R_t1",
+        "Mime": "Mime_D_P_R_t1",
+        "Ambiguous": "Ambiguous_C_G_L_f1_t2",
+        "Social": "Social_C_B_L_f1_t1"
+      }
+    },
+    "1uFam5": {
+      "task_order": [
+        "Ritual",
+        "Ambiguous",
+        "Competence",
+        "Social",
+        "Asocial",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f2_t1",
+        "Competence": "Competence_C_R_R_t1",
+        "Ritual": "Ritual_C_P_R_t2",
+        "Mime": "Mime_C_G_R_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f1_t2",
+        "Social": "Social_D_B_L_f1_t2"
+      }
+    },
+    "EPWJBg": {
+      "task_order": [
+        "Ambiguous",
+        "Competence",
+        "Asocial",
+        "Ritual",
+        "Mime",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f1_t2",
+        "Competence": "Competence_D_B_L_t1",
+        "Ritual": "Ritual_C_P_L_t1",
+        "Mime": "Mime_D_G_R_t1",
+        "Ambiguous": "Ambiguous_C_B_L_f1_t2",
+        "Social": "Social_D_P_L_f2_t2"
+      }
+    },
+    "vmVT3w": {
+      "task_order": [
+        "Ambiguous",
+        "Asocial",
+        "Mime",
+        "Ritual",
+        "Social",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f2_t1",
+        "Competence": "Competence_D_B_L_t1",
+        "Ritual": "Ritual_D_P_L_t2",
+        "Mime": "Mime_C_P_R_t2",
+        "Ambiguous": "Ambiguous_C_G_R_f1_t2",
+        "Social": "Social_D_P_R_f1_t1"
+      }
+    },
+    "SPf2Bd": {
+      "task_order": [
+        "Social",
+        "Mime",
+        "Asocial",
+        "Competence",
+        "Ambiguous",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f2_t2",
+        "Competence": "Competence_C_B_R_t1",
+        "Ritual": "Ritual_D_O_L_t2",
+        "Mime": "Mime_D_G_R_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f2_t2",
+        "Social": "Social_C_P_R_f1_t2"
+      }
+    },
+    "NTPDtT": {
+      "task_order": [
+        "Competence",
+        "Ambiguous",
+        "Social",
+        "Ritual",
+        "Mime",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f2_t2",
+        "Competence": "Competence_D_B_R_t2",
+        "Ritual": "Ritual_C_P_L_t1",
+        "Mime": "Mime_D_P_L_t1",
+        "Ambiguous": "Ambiguous_C_B_R_f2_t2",
+        "Social": "Social_C_P_L_f1_t2"
+      }
+    },
+    "X1aMEB": {
+      "task_order": [
+        "Asocial",
+        "Ambiguous",
+        "Ritual",
+        "Competence",
+        "Social",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f2_t1",
+        "Competence": "Competence_C_B_L_t1",
+        "Ritual": "Ritual_D_O_R_t1",
+        "Mime": "Mime_C_G_L_t1",
+        "Ambiguous": "Ambiguous_D_G_L_f2_t2",
+        "Social": "Social_D_P_R_f2_t1"
+      }
+    },
+    "6DtUPJ": {
+      "task_order": [
+        "Ritual",
+        "Asocial",
+        "Competence",
+        "Ambiguous",
+        "Mime",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f2_t2",
+        "Competence": "Competence_D_B_R_t1",
+        "Ritual": "Ritual_C_P_L_t2",
+        "Mime": "Mime_D_P_L_t1",
+        "Ambiguous": "Ambiguous_D_B_R_f2_t2",
+        "Social": "Social_C_P_R_f1_t1"
+      }
+    },
+    "6jLS71": {
+      "task_order": [
+        "Mime",
+        "Social",
+        "Ritual",
+        "Competence",
+        "Ambiguous",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f1_t1",
+        "Competence": "Competence_D_R_L_t2",
+        "Ritual": "Ritual_C_P_L_t1",
+        "Mime": "Mime_D_P_L_t1",
+        "Ambiguous": "Ambiguous_C_B_R_f2_t2",
+        "Social": "Social_C_B_L_f1_t2"
+      }
+    },
+    "qDQyxE": {
+      "task_order": [
+        "Mime",
+        "Ambiguous",
+        "Asocial",
+        "Social",
+        "Ritual",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f1_t1",
+        "Competence": "Competence_D_B_R_t1",
+        "Ritual": "Ritual_C_O_R_t2",
+        "Mime": "Mime_C_P_L_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f1_t1",
+        "Social": "Social_C_B_L_f2_t1"
+      }
+    },
+    "ajmWP7": {
+      "task_order": [
+        "Social",
+        "Asocial",
+        "Ritual",
+        "Mime",
+        "Competence",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f1_t2",
+        "Competence": "Competence_D_R_L_t2",
+        "Ritual": "Ritual_D_O_L_t2",
+        "Mime": "Mime_D_P_L_t1",
+        "Ambiguous": "Ambiguous_D_B_R_f2_t1",
+        "Social": "Social_D_B_L_f1_t2"
+      }
+    },
+    "zyU2JV": {
+      "task_order": [
+        "Asocial",
+        "Social",
+        "Ambiguous",
+        "Ritual",
+        "Competence",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f2_t2",
+        "Competence": "Competence_D_B_R_t1",
+        "Ritual": "Ritual_C_O_L_t1",
+        "Mime": "Mime_D_P_R_t1",
+        "Ambiguous": "Ambiguous_C_B_L_f2_t2",
+        "Social": "Social_C_P_L_f2_t1"
+      }
+    },
+    "0gqhnE": {
+      "task_order": [
+        "Asocial",
+        "Mime",
+        "Ritual",
+        "Ambiguous",
+        "Competence",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f2_t1",
+        "Competence": "Competence_D_R_R_t1",
+        "Ritual": "Ritual_D_O_L_t2",
+        "Mime": "Mime_C_P_R_t1",
+        "Ambiguous": "Ambiguous_D_G_L_f2_t1",
+        "Social": "Social_C_B_R_f1_t2"
+      }
+    },
+    "iSc5kY": {
+      "task_order": [
+        "Social",
+        "Mime",
+        "Ritual",
+        "Asocial",
+        "Competence",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f2_t1",
+        "Competence": "Competence_C_B_R_t1",
+        "Ritual": "Ritual_C_P_L_t2",
+        "Mime": "Mime_C_P_R_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f1_t2",
+        "Social": "Social_C_B_R_f1_t1"
+      }
+    },
+    "BdhVud": {
+      "task_order": [
+        "Asocial",
+        "Mime",
+        "Competence",
+        "Social",
+        "Ritual",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f2_t1",
+        "Competence": "Competence_D_R_R_t1",
+        "Ritual": "Ritual_D_P_R_t1",
+        "Mime": "Mime_C_G_R_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f2_t2",
+        "Social": "Social_C_B_R_f2_t2"
+      }
+    },
+    "LhWj0V": {
+      "task_order": [
+        "Social",
+        "Competence",
+        "Ambiguous",
+        "Ritual",
+        "Mime",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f2_t1",
+        "Competence": "Competence_C_B_R_t1",
+        "Ritual": "Ritual_D_P_L_t2",
+        "Mime": "Mime_D_P_L_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f2_t1",
+        "Social": "Social_C_B_R_f2_t1"
+      }
+    },
+    "d0ZyrC": {
+      "task_order": [
+        "Ritual",
+        "Social",
+        "Asocial",
+        "Competence",
+        "Mime",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f2_t1",
+        "Competence": "Competence_D_B_L_t2",
+        "Ritual": "Ritual_D_P_L_t2",
+        "Mime": "Mime_D_P_R_t2",
+        "Ambiguous": "Ambiguous_C_G_L_f1_t1",
+        "Social": "Social_D_B_R_f2_t2"
+      }
+    },
+    "2f3yKm": {
+      "task_order": [
+        "Mime",
+        "Competence",
+        "Ritual",
+        "Social",
+        "Asocial",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f1_t1",
+        "Competence": "Competence_C_R_R_t1",
+        "Ritual": "Ritual_C_P_L_t1",
+        "Mime": "Mime_C_P_L_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f2_t1",
+        "Social": "Social_C_B_L_f1_t2"
+      }
+    },
+    "tYzf8g": {
+      "task_order": [
+        "Asocial",
+        "Competence",
+        "Mime",
+        "Ritual",
+        "Social",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f1_t1",
+        "Competence": "Competence_C_R_L_t2",
+        "Ritual": "Ritual_C_O_R_t2",
+        "Mime": "Mime_C_P_L_t2",
+        "Ambiguous": "Ambiguous_D_B_L_f2_t2",
+        "Social": "Social_D_P_R_f1_t2"
+      }
+    },
+    "ndTutq": {
+      "task_order": [
+        "Asocial",
+        "Ritual",
+        "Mime",
+        "Competence",
+        "Ambiguous",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f1_t1",
+        "Competence": "Competence_C_B_L_t1",
+        "Ritual": "Ritual_D_P_R_t1",
+        "Mime": "Mime_C_P_L_t2",
+        "Ambiguous": "Ambiguous_D_G_R_f2_t1",
+        "Social": "Social_D_P_R_f1_t1"
+      }
+    },
+    "ahxXh8": {
+      "task_order": [
+        "Mime",
+        "Competence",
+        "Social",
+        "Ritual",
+        "Ambiguous",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f2_t2",
+        "Competence": "Competence_D_R_L_t1",
+        "Ritual": "Ritual_C_O_L_t2",
+        "Mime": "Mime_D_P_L_t2",
+        "Ambiguous": "Ambiguous_C_B_R_f2_t2",
+        "Social": "Social_D_B_R_f2_t2"
+      }
+    },
+    "hr3mra": {
+      "task_order": [
+        "Mime",
+        "Competence",
+        "Social",
+        "Ritual",
+        "Asocial",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f2_t2",
+        "Competence": "Competence_C_B_R_t2",
+        "Ritual": "Ritual_D_O_R_t2",
+        "Mime": "Mime_C_P_R_t2",
+        "Ambiguous": "Ambiguous_D_G_L_f2_t2",
+        "Social": "Social_C_P_R_f1_t2"
+      }
+    },
+    "KZJawH": {
+      "task_order": [
+        "Ambiguous",
+        "Ritual",
+        "Social",
+        "Competence",
+        "Mime",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f1_t1",
+        "Competence": "Competence_C_B_R_t1",
+        "Ritual": "Ritual_D_P_L_t1",
+        "Mime": "Mime_C_P_L_t1",
+        "Ambiguous": "Ambiguous_D_G_L_f2_t2",
+        "Social": "Social_D_P_L_f1_t2"
+      }
+    },
+    "RNUkVm": {
+      "task_order": [
+        "Ritual",
+        "Mime",
+        "Asocial",
+        "Competence",
+        "Ambiguous",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f2_t2",
+        "Competence": "Competence_C_B_L_t2",
+        "Ritual": "Ritual_D_P_R_t1",
+        "Mime": "Mime_C_P_R_t1",
+        "Ambiguous": "Ambiguous_D_B_R_f1_t1",
+        "Social": "Social_C_B_R_f2_t1"
+      }
+    },
+    "wHknZ9": {
+      "task_order": [
+        "Mime",
+        "Ambiguous",
+        "Ritual",
+        "Asocial",
+        "Competence",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f1_t2",
+        "Competence": "Competence_D_B_R_t1",
+        "Ritual": "Ritual_C_O_L_t2",
+        "Mime": "Mime_D_P_R_t2",
+        "Ambiguous": "Ambiguous_D_B_L_f2_t1",
+        "Social": "Social_D_B_R_f2_t1"
+      }
+    },
+    "H6r48z": {
+      "task_order": [
+        "Asocial",
+        "Mime",
+        "Ritual",
+        "Competence",
+        "Social",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f1_t1",
+        "Competence": "Competence_C_R_R_t2",
+        "Ritual": "Ritual_D_O_R_t1",
+        "Mime": "Mime_D_P_L_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f1_t1",
+        "Social": "Social_D_B_L_f2_t2"
+      }
+    },
+    "B2BndN": {
+      "task_order": [
+        "Social",
+        "Mime",
+        "Ritual",
+        "Asocial",
+        "Ambiguous",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f1_t2",
+        "Competence": "Competence_C_B_R_t1",
+        "Ritual": "Ritual_D_O_L_t1",
+        "Mime": "Mime_D_P_R_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f2_t1",
+        "Social": "Social_C_P_L_f1_t1"
+      }
+    },
+    "pk8PrB": {
+      "task_order": [
+        "Mime",
+        "Social",
+        "Competence",
+        "Ritual",
+        "Ambiguous",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f1_t1",
+        "Competence": "Competence_C_B_L_t2",
+        "Ritual": "Ritual_C_P_R_t2",
+        "Mime": "Mime_D_P_L_t2",
+        "Ambiguous": "Ambiguous_D_G_R_f1_t2",
+        "Social": "Social_C_P_L_f2_t2"
+      }
+    },
+    "m8JqAu": {
+      "task_order": [
+        "Asocial",
+        "Competence",
+        "Ambiguous",
+        "Mime",
+        "Social",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f2_t1",
+        "Competence": "Competence_C_R_L_t1",
+        "Ritual": "Ritual_C_O_L_t1",
+        "Mime": "Mime_D_G_L_t2",
+        "Ambiguous": "Ambiguous_D_B_L_f2_t2",
+        "Social": "Social_D_B_L_f1_t1"
+      }
+    },
+    "ATKAR4": {
+      "task_order": [
+        "Ambiguous",
+        "Asocial",
+        "Social",
+        "Ritual",
+        "Competence",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f1_t1",
+        "Competence": "Competence_C_R_R_t1",
+        "Ritual": "Ritual_D_P_R_t2",
+        "Mime": "Mime_D_P_R_t2",
+        "Ambiguous": "Ambiguous_C_G_L_f2_t1",
+        "Social": "Social_C_P_R_f1_t1"
+      }
+    },
+    "jtXWcD": {
+      "task_order": [
+        "Asocial",
+        "Ritual",
+        "Mime",
+        "Social",
+        "Ambiguous",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f2_t1",
+        "Competence": "Competence_C_R_R_t1",
+        "Ritual": "Ritual_C_O_L_t1",
+        "Mime": "Mime_C_P_R_t1",
+        "Ambiguous": "Ambiguous_D_B_L_f1_t2",
+        "Social": "Social_D_P_R_f2_t1"
+      }
+    },
+    "0cY7Uq": {
+      "task_order": [
+        "Mime",
+        "Competence",
+        "Ambiguous",
+        "Ritual",
+        "Asocial",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f1_t1",
+        "Competence": "Competence_D_R_L_t1",
+        "Ritual": "Ritual_C_O_R_t1",
+        "Mime": "Mime_D_P_R_t1",
+        "Ambiguous": "Ambiguous_D_G_L_f2_t1",
+        "Social": "Social_D_P_L_f2_t1"
+      }
+    },
+    "qgfMea": {
+      "task_order": [
+        "Ambiguous",
+        "Ritual",
+        "Competence",
+        "Social",
+        "Asocial",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f2_t2",
+        "Competence": "Competence_C_B_L_t2",
+        "Ritual": "Ritual_C_P_R_t2",
+        "Mime": "Mime_C_G_L_t2",
+        "Ambiguous": "Ambiguous_C_G_R_f1_t1",
+        "Social": "Social_C_B_L_f2_t2"
+      }
+    },
+    "SkuZpK": {
+      "task_order": [
+        "Ambiguous",
+        "Mime",
+        "Ritual",
+        "Asocial",
+        "Competence",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f2_t2",
+        "Competence": "Competence_D_R_R_t2",
+        "Ritual": "Ritual_D_P_L_t1",
+        "Mime": "Mime_D_G_R_t1",
+        "Ambiguous": "Ambiguous_C_G_L_f2_t1",
+        "Social": "Social_C_B_L_f2_t1"
+      }
+    },
+    "hvaZAL": {
+      "task_order": [
+        "Mime",
+        "Asocial",
+        "Ambiguous",
+        "Ritual",
+        "Competence",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f1_t2",
+        "Competence": "Competence_D_R_R_t2",
+        "Ritual": "Ritual_D_P_L_t2",
+        "Mime": "Mime_D_G_R_t2",
+        "Ambiguous": "Ambiguous_C_G_L_f2_t1",
+        "Social": "Social_C_P_L_f2_t2"
+      }
+    },
+    "qREKa4": {
+      "task_order": [
+        "Ritual",
+        "Social",
+        "Mime",
+        "Ambiguous",
+        "Competence",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f2_t1",
+        "Competence": "Competence_C_B_L_t2",
+        "Ritual": "Ritual_D_P_R_t2",
+        "Mime": "Mime_D_P_R_t1",
+        "Ambiguous": "Ambiguous_C_G_R_f1_t2",
+        "Social": "Social_C_P_R_f1_t1"
+      }
+    },
+    "1ChtBc": {
+      "task_order": [
+        "Social",
+        "Competence",
+        "Asocial",
+        "Ritual",
+        "Ambiguous",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f1_t2",
+        "Competence": "Competence_D_R_L_t2",
+        "Ritual": "Ritual_D_O_R_t1",
+        "Mime": "Mime_D_G_L_t1",
+        "Ambiguous": "Ambiguous_C_B_R_f2_t1",
+        "Social": "Social_D_B_L_f1_t2"
+      }
+    },
+    "rYfmT1": {
+      "task_order": [
+        "Ritual",
+        "Social",
+        "Mime",
+        "Asocial",
+        "Competence",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f2_t1",
+        "Competence": "Competence_C_R_L_t2",
+        "Ritual": "Ritual_D_O_L_t1",
+        "Mime": "Mime_D_G_L_t2",
+        "Ambiguous": "Ambiguous_C_G_R_f2_t2",
+        "Social": "Social_C_B_L_f1_t1"
+      }
+    },
+    "XSeQK0": {
+      "task_order": [
+        "Asocial",
+        "Ritual",
+        "Ambiguous",
+        "Competence",
+        "Mime",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f1_t2",
+        "Competence": "Competence_C_B_R_t2",
+        "Ritual": "Ritual_D_O_R_t2",
+        "Mime": "Mime_C_G_R_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f2_t2",
+        "Social": "Social_C_B_L_f1_t1"
+      }
+    },
+    "wxQGHJ": {
+      "task_order": [
+        "Ritual",
+        "Asocial",
+        "Competence",
+        "Social",
+        "Ambiguous",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f1_t2",
+        "Competence": "Competence_D_R_R_t1",
+        "Ritual": "Ritual_C_O_L_t2",
+        "Mime": "Mime_C_G_R_t1",
+        "Ambiguous": "Ambiguous_C_B_R_f1_t2",
+        "Social": "Social_D_P_L_f2_t2"
+      }
+    },
+    "nUExSY": {
+      "task_order": [
+        "Mime",
+        "Social",
+        "Asocial",
+        "Ambiguous",
+        "Competence",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f2_t1",
+        "Competence": "Competence_C_R_L_t1",
+        "Ritual": "Ritual_D_P_L_t1",
+        "Mime": "Mime_C_P_L_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f1_t1",
+        "Social": "Social_D_P_R_f1_t2"
+      }
+    },
+    "F897wb": {
+      "task_order": [
+        "Social",
+        "Ambiguous",
+        "Competence",
+        "Mime",
+        "Ritual",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f1_t2",
+        "Competence": "Competence_C_B_L_t1",
+        "Ritual": "Ritual_D_P_L_t2",
+        "Mime": "Mime_C_G_L_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f1_t1",
+        "Social": "Social_C_P_L_f1_t2"
+      }
+    },
+    "w26uKk": {
+      "task_order": [
+        "Asocial",
+        "Ritual",
+        "Ambiguous",
+        "Mime",
+        "Social",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f1_t1",
+        "Competence": "Competence_C_R_L_t1",
+        "Ritual": "Ritual_D_P_R_t1",
+        "Mime": "Mime_D_P_R_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f1_t2",
+        "Social": "Social_D_P_R_f1_t2"
+      }
+    },
+    "xxuXPC": {
+      "task_order": [
+        "Asocial",
+        "Mime",
+        "Social",
+        "Ambiguous",
+        "Ritual",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f2_t1",
+        "Competence": "Competence_D_R_L_t2",
+        "Ritual": "Ritual_D_P_R_t1",
+        "Mime": "Mime_D_G_R_t1",
+        "Ambiguous": "Ambiguous_C_B_R_f1_t1",
+        "Social": "Social_D_P_L_f2_t1"
+      }
+    },
+    "4QWnty": {
+      "task_order": [
+        "Asocial",
+        "Ambiguous",
+        "Social",
+        "Mime",
+        "Ritual",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f1_t1",
+        "Competence": "Competence_D_R_R_t2",
+        "Ritual": "Ritual_C_O_L_t2",
+        "Mime": "Mime_D_G_R_t1",
+        "Ambiguous": "Ambiguous_D_B_L_f1_t1",
+        "Social": "Social_C_P_L_f1_t1"
+      }
+    },
+    "Fm9CD3": {
+      "task_order": [
+        "Social",
+        "Asocial",
+        "Ritual",
+        "Ambiguous",
+        "Mime",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f2_t1",
+        "Competence": "Competence_D_B_L_t1",
+        "Ritual": "Ritual_C_O_L_t1",
+        "Mime": "Mime_C_G_L_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f2_t1",
+        "Social": "Social_C_B_L_f1_t2"
+      }
+    },
+    "k1CQdj": {
+      "task_order": [
+        "Ambiguous",
+        "Ritual",
+        "Asocial",
+        "Mime",
+        "Competence",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f2_t2",
+        "Competence": "Competence_C_R_R_t2",
+        "Ritual": "Ritual_C_P_L_t1",
+        "Mime": "Mime_C_G_L_t2",
+        "Ambiguous": "Ambiguous_C_B_R_f2_t1",
+        "Social": "Social_D_B_R_f1_t1"
+      }
+    },
+    "YvXMyr": {
+      "task_order": [
+        "Social",
+        "Asocial",
+        "Ritual",
+        "Ambiguous",
+        "Competence",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f2_t1",
+        "Competence": "Competence_C_R_L_t2",
+        "Ritual": "Ritual_C_O_R_t1",
+        "Mime": "Mime_D_G_L_t1",
+        "Ambiguous": "Ambiguous_C_B_R_f1_t1",
+        "Social": "Social_D_P_R_f1_t1"
+      }
+    },
+    "epavbj": {
+      "task_order": [
+        "Ritual",
+        "Social",
+        "Competence",
+        "Mime",
+        "Ambiguous",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f1_t1",
+        "Competence": "Competence_D_B_L_t2",
+        "Ritual": "Ritual_C_P_R_t1",
+        "Mime": "Mime_D_P_R_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f1_t2",
+        "Social": "Social_D_B_L_f1_t1"
+      }
+    },
+    "30P5CB": {
+      "task_order": [
+        "Ritual",
+        "Mime",
+        "Competence",
+        "Ambiguous",
+        "Social",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f2_t1",
+        "Competence": "Competence_D_B_L_t1",
+        "Ritual": "Ritual_D_O_L_t2",
+        "Mime": "Mime_C_P_R_t1",
+        "Ambiguous": "Ambiguous_C_G_R_f2_t2",
+        "Social": "Social_C_P_R_f2_t2"
+      }
+    },
+    "St4SDX": {
+      "task_order": [
+        "Ritual",
+        "Asocial",
+        "Social",
+        "Mime",
+        "Ambiguous",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f2_t1",
+        "Competence": "Competence_D_R_L_t1",
+        "Ritual": "Ritual_D_P_R_t1",
+        "Mime": "Mime_D_P_L_t2",
+        "Ambiguous": "Ambiguous_C_G_R_f1_t2",
+        "Social": "Social_C_P_R_f2_t2"
+      }
+    },
+    "qHz8kA": {
+      "task_order": [
+        "Competence",
+        "Ritual",
+        "Social",
+        "Asocial",
+        "Ambiguous",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f1_t1",
+        "Competence": "Competence_D_R_L_t2",
+        "Ritual": "Ritual_D_O_L_t2",
+        "Mime": "Mime_C_G_R_t2",
+        "Ambiguous": "Ambiguous_C_G_R_f1_t1",
+        "Social": "Social_D_P_R_f1_t1"
+      }
+    },
+    "nbibjg": {
+      "task_order": [
+        "Ritual",
+        "Mime",
+        "Competence",
+        "Social",
+        "Ambiguous",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f1_t2",
+        "Competence": "Competence_D_B_L_t2",
+        "Ritual": "Ritual_D_P_L_t2",
+        "Mime": "Mime_C_G_L_t2",
+        "Ambiguous": "Ambiguous_D_G_L_f1_t1",
+        "Social": "Social_D_P_R_f2_t2"
+      }
+    },
+    "JjhynU": {
+      "task_order": [
+        "Social",
+        "Competence",
+        "Ambiguous",
+        "Mime",
+        "Ritual",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f1_t1",
+        "Competence": "Competence_D_R_R_t2",
+        "Ritual": "Ritual_D_P_R_t2",
+        "Mime": "Mime_C_P_R_t1",
+        "Ambiguous": "Ambiguous_D_B_L_f2_t2",
+        "Social": "Social_C_B_R_f1_t2"
+      }
+    },
+    "8NahYV": {
+      "task_order": [
+        "Ritual",
+        "Social",
+        "Ambiguous",
+        "Mime",
+        "Competence",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f2_t1",
+        "Competence": "Competence_C_R_L_t2",
+        "Ritual": "Ritual_C_P_L_t1",
+        "Mime": "Mime_C_G_R_t1",
+        "Ambiguous": "Ambiguous_D_B_R_f2_t1",
+        "Social": "Social_C_B_R_f2_t2"
+      }
+    },
+    "t33bRM": {
+      "task_order": [
+        "Social",
+        "Competence",
+        "Asocial",
+        "Ritual",
+        "Mime",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f2_t1",
+        "Competence": "Competence_D_R_R_t1",
+        "Ritual": "Ritual_D_O_L_t1",
+        "Mime": "Mime_C_P_R_t1",
+        "Ambiguous": "Ambiguous_D_G_L_f1_t1",
+        "Social": "Social_C_B_L_f1_t1"
+      }
+    },
+    "gPP7Na": {
+      "task_order": [
+        "Asocial",
+        "Competence",
+        "Mime",
+        "Ambiguous",
+        "Social",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f1_t2",
+        "Competence": "Competence_D_B_L_t2",
+        "Ritual": "Ritual_C_O_L_t1",
+        "Mime": "Mime_D_G_R_t1",
+        "Ambiguous": "Ambiguous_D_B_L_f2_t1",
+        "Social": "Social_C_B_R_f1_t1"
+      }
+    },
+    "hikMNU": {
+      "task_order": [
+        "Mime",
+        "Social",
+        "Asocial",
+        "Competence",
+        "Ritual",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f1_t2",
+        "Competence": "Competence_C_R_R_t1",
+        "Ritual": "Ritual_C_O_R_t2",
+        "Mime": "Mime_C_P_R_t2",
+        "Ambiguous": "Ambiguous_C_G_R_f1_t2",
+        "Social": "Social_C_P_R_f2_t2"
+      }
+    },
+    "uQyLnU": {
+      "task_order": [
+        "Asocial",
+        "Social",
+        "Ritual",
+        "Mime",
+        "Competence",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f2_t1",
+        "Competence": "Competence_D_B_R_t2",
+        "Ritual": "Ritual_C_O_L_t1",
+        "Mime": "Mime_C_G_R_t1",
+        "Ambiguous": "Ambiguous_C_B_R_f1_t1",
+        "Social": "Social_C_B_L_f2_t2"
+      }
+    },
+    "bGN8aG": {
+      "task_order": [
+        "Ambiguous",
+        "Competence",
+        "Asocial",
+        "Mime",
+        "Social",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f1_t2",
+        "Competence": "Competence_C_B_L_t2",
+        "Ritual": "Ritual_D_P_L_t1",
+        "Mime": "Mime_C_G_R_t2",
+        "Ambiguous": "Ambiguous_C_B_R_f2_t1",
+        "Social": "Social_C_P_L_f2_t2"
+      }
+    },
+    "LHpuVm": {
+      "task_order": [
+        "Asocial",
+        "Ambiguous",
+        "Competence",
+        "Ritual",
+        "Social",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f2_t2",
+        "Competence": "Competence_C_B_R_t1",
+        "Ritual": "Ritual_C_P_R_t2",
+        "Mime": "Mime_D_G_R_t2",
+        "Ambiguous": "Ambiguous_D_G_L_f2_t1",
+        "Social": "Social_D_P_R_f1_t2"
+      }
+    },
+    "c1dyPV": {
+      "task_order": [
+        "Ambiguous",
+        "Mime",
+        "Asocial",
+        "Ritual",
+        "Competence",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f1_t2",
+        "Competence": "Competence_C_B_R_t1",
+        "Ritual": "Ritual_D_P_R_t1",
+        "Mime": "Mime_D_G_L_t1",
+        "Ambiguous": "Ambiguous_C_G_R_f2_t1",
+        "Social": "Social_D_B_R_f2_t1"
+      }
+    },
+    "XyV6qw": {
+      "task_order": [
+        "Mime",
+        "Social",
+        "Ritual",
+        "Asocial",
+        "Competence",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f1_t1",
+        "Competence": "Competence_D_B_R_t1",
+        "Ritual": "Ritual_D_O_L_t1",
+        "Mime": "Mime_C_G_R_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f1_t1",
+        "Social": "Social_C_B_R_f1_t2"
+      }
+    },
+    "ahK3DP": {
+      "task_order": [
+        "Ambiguous",
+        "Asocial",
+        "Ritual",
+        "Social",
+        "Competence",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f1_t2",
+        "Competence": "Competence_D_R_L_t1",
+        "Ritual": "Ritual_D_P_L_t1",
+        "Mime": "Mime_C_P_R_t1",
+        "Ambiguous": "Ambiguous_D_B_R_f2_t2",
+        "Social": "Social_D_B_L_f2_t1"
+      }
+    },
+    "27WVNu": {
+      "task_order": [
+        "Ambiguous",
+        "Mime",
+        "Asocial",
+        "Competence",
+        "Social",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f1_t2",
+        "Competence": "Competence_C_B_R_t2",
+        "Ritual": "Ritual_D_O_L_t1",
+        "Mime": "Mime_D_G_R_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f2_t1",
+        "Social": "Social_C_P_R_f2_t1"
+      }
+    },
+    "r7xCCN": {
+      "task_order": [
+        "Social",
+        "Competence",
+        "Ritual",
+        "Asocial",
+        "Mime",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f1_t2",
+        "Competence": "Competence_D_B_R_t1",
+        "Ritual": "Ritual_C_O_R_t1",
+        "Mime": "Mime_D_G_L_t2",
+        "Ambiguous": "Ambiguous_D_G_R_f1_t2",
+        "Social": "Social_D_P_L_f1_t2"
+      }
+    },
+    "QYCZGT": {
+      "task_order": [
+        "Ambiguous",
+        "Competence",
+        "Asocial",
+        "Ritual",
+        "Social",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f1_t2",
+        "Competence": "Competence_D_B_R_t1",
+        "Ritual": "Ritual_C_O_L_t2",
+        "Mime": "Mime_C_P_R_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f1_t2",
+        "Social": "Social_C_P_R_f2_t2"
+      }
+    },
+    "MbM780": {
+      "task_order": [
+        "Mime",
+        "Ambiguous",
+        "Social",
+        "Asocial",
+        "Competence",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f2_t2",
+        "Competence": "Competence_C_R_L_t2",
+        "Ritual": "Ritual_C_O_R_t2",
+        "Mime": "Mime_C_P_R_t2",
+        "Ambiguous": "Ambiguous_D_B_L_f1_t1",
+        "Social": "Social_D_B_L_f1_t2"
+      }
+    },
+    "q9Rcpa": {
+      "task_order": [
+        "Ambiguous",
+        "Asocial",
+        "Mime",
+        "Social",
+        "Ritual",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f2_t2",
+        "Competence": "Competence_C_B_L_t1",
+        "Ritual": "Ritual_C_O_R_t2",
+        "Mime": "Mime_C_P_L_t1",
+        "Ambiguous": "Ambiguous_C_G_R_f1_t2",
+        "Social": "Social_C_P_R_f1_t1"
+      }
+    },
+    "VRvGxd": {
+      "task_order": [
+        "Mime",
+        "Asocial",
+        "Social",
+        "Competence",
+        "Ambiguous",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f1_t1",
+        "Competence": "Competence_D_R_L_t1",
+        "Ritual": "Ritual_C_O_R_t2",
+        "Mime": "Mime_C_P_L_t1",
+        "Ambiguous": "Ambiguous_C_B_L_f2_t1",
+        "Social": "Social_C_B_R_f1_t1"
+      }
+    },
+    "50ArrY": {
+      "task_order": [
+        "Ritual",
+        "Ambiguous",
+        "Competence",
+        "Mime",
+        "Social",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f2_t2",
+        "Competence": "Competence_C_R_L_t2",
+        "Ritual": "Ritual_C_P_L_t1",
+        "Mime": "Mime_D_G_R_t1",
+        "Ambiguous": "Ambiguous_D_B_L_f1_t1",
+        "Social": "Social_D_P_R_f1_t2"
+      }
+    },
+    "CrPPfL": {
+      "task_order": [
+        "Competence",
+        "Ritual",
+        "Asocial",
+        "Ambiguous",
+        "Mime",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f1_t1",
+        "Competence": "Competence_C_B_L_t1",
+        "Ritual": "Ritual_C_P_R_t1",
+        "Mime": "Mime_D_G_R_t2",
+        "Ambiguous": "Ambiguous_D_B_R_f1_t1",
+        "Social": "Social_C_P_R_f1_t2"
+      }
+    },
+    "dSPnTd": {
+      "task_order": [
+        "Ritual",
+        "Asocial",
+        "Ambiguous",
+        "Competence",
+        "Mime",
+        "Social"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f2_t2",
+        "Competence": "Competence_D_B_L_t2",
+        "Ritual": "Ritual_D_O_L_t1",
+        "Mime": "Mime_C_P_L_t1",
+        "Ambiguous": "Ambiguous_D_B_R_f2_t1",
+        "Social": "Social_C_B_L_f1_t2"
+      }
+    },
+    "YGWWbj": {
+      "task_order": [
+        "Social",
+        "Mime",
+        "Ambiguous",
+        "Competence",
+        "Asocial",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f1_t1",
+        "Competence": "Competence_C_R_L_t1",
+        "Ritual": "Ritual_D_P_L_t1",
+        "Mime": "Mime_C_P_L_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f2_t2",
+        "Social": "Social_C_B_R_f2_t2"
+      }
+    },
+    "V954H1": {
+      "task_order": [
+        "Competence",
+        "Social",
+        "Mime",
+        "Ambiguous",
+        "Ritual",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f2_t1",
+        "Competence": "Competence_C_R_R_t2",
+        "Ritual": "Ritual_D_P_R_t1",
+        "Mime": "Mime_D_P_L_t2",
+        "Ambiguous": "Ambiguous_C_B_R_f1_t2",
+        "Social": "Social_C_P_R_f1_t2"
+      }
+    },
+    "xvWg9x": {
+      "task_order": [
+        "Mime",
+        "Asocial",
+        "Competence",
+        "Ritual",
+        "Social",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f1_t1",
+        "Competence": "Competence_D_R_R_t2",
+        "Ritual": "Ritual_D_O_L_t2",
+        "Mime": "Mime_C_P_L_t1",
+        "Ambiguous": "Ambiguous_C_G_R_f1_t1",
+        "Social": "Social_D_B_R_f1_t1"
+      }
+    },
+    "KmaHP9": {
+      "task_order": [
+        "Asocial",
+        "Ambiguous",
+        "Competence",
+        "Mime",
+        "Social",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f2_t2",
+        "Competence": "Competence_D_R_L_t2",
+        "Ritual": "Ritual_C_P_L_t2",
+        "Mime": "Mime_D_G_L_t1",
+        "Ambiguous": "Ambiguous_C_G_L_f2_t2",
+        "Social": "Social_D_B_R_f2_t1"
+      }
+    },
+    "amBDnC": {
+      "task_order": [
+        "Ritual",
+        "Asocial",
+        "Competence",
+        "Mime",
+        "Social",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_L_f1_t2",
+        "Competence": "Competence_C_B_R_t2",
+        "Ritual": "Ritual_D_P_L_t2",
+        "Mime": "Mime_D_G_L_t2",
+        "Ambiguous": "Ambiguous_C_G_L_f2_t2",
+        "Social": "Social_D_P_R_f1_t1"
+      }
+    },
+    "b5znfB": {
+      "task_order": [
+        "Asocial",
+        "Social",
+        "Ambiguous",
+        "Mime",
+        "Ritual",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_P_R_f2_t2",
+        "Competence": "Competence_C_R_L_t2",
+        "Ritual": "Ritual_D_O_L_t2",
+        "Mime": "Mime_C_P_L_t2",
+        "Ambiguous": "Ambiguous_C_G_R_f2_t1",
+        "Social": "Social_C_P_L_f1_t2"
+      }
+    },
+    "d0qjjx": {
+      "task_order": [
+        "Competence",
+        "Ambiguous",
+        "Social",
+        "Mime",
+        "Ritual",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f2_t2",
+        "Competence": "Competence_D_B_L_t1",
+        "Ritual": "Ritual_C_O_R_t2",
+        "Mime": "Mime_D_G_L_t2",
+        "Ambiguous": "Ambiguous_D_B_L_f1_t2",
+        "Social": "Social_C_B_L_f2_t2"
+      }
+    },
+    "pQDmmE": {
+      "task_order": [
+        "Ritual",
+        "Competence",
+        "Ambiguous",
+        "Asocial",
+        "Social",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f1_t2",
+        "Competence": "Competence_C_R_R_t2",
+        "Ritual": "Ritual_C_P_R_t2",
+        "Mime": "Mime_C_P_L_t2",
+        "Ambiguous": "Ambiguous_D_G_L_f1_t2",
+        "Social": "Social_D_B_R_f2_t1"
+      }
+    },
+    "Q4XijK": {
+      "task_order": [
+        "Ambiguous",
+        "Social",
+        "Ritual",
+        "Competence",
+        "Asocial",
+        "Mime"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f2_t1",
+        "Competence": "Competence_C_B_L_t1",
+        "Ritual": "Ritual_D_O_R_t2",
+        "Mime": "Mime_C_G_R_t1",
+        "Ambiguous": "Ambiguous_C_B_R_f1_t1",
+        "Social": "Social_C_P_R_f2_t2"
+      }
+    },
+    "2gwMTB": {
+      "task_order": [
+        "Social",
+        "Ambiguous",
+        "Competence",
+        "Asocial",
+        "Mime",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_L_f2_t1",
+        "Competence": "Competence_C_R_R_t1",
+        "Ritual": "Ritual_D_O_R_t2",
+        "Mime": "Mime_C_G_R_t2",
+        "Ambiguous": "Ambiguous_C_B_R_f1_t2",
+        "Social": "Social_D_B_L_f1_t2"
+      }
+    },
+    "VnzTYu": {
+      "task_order": [
+        "Ritual",
+        "Ambiguous",
+        "Asocial",
+        "Social",
+        "Mime",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_R_f1_t1",
+        "Competence": "Competence_C_R_R_t1",
+        "Ritual": "Ritual_D_O_L_t1",
+        "Mime": "Mime_D_G_R_t2",
+        "Ambiguous": "Ambiguous_D_B_L_f1_t1",
+        "Social": "Social_D_B_R_f1_t1"
+      }
+    },
+    "5S3aZW": {
+      "task_order": [
+        "Ambiguous",
+        "Asocial",
+        "Competence",
+        "Social",
+        "Mime",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f1_t1",
+        "Competence": "Competence_C_B_R_t1",
+        "Ritual": "Ritual_D_O_R_t2",
+        "Mime": "Mime_D_G_R_t1",
+        "Ambiguous": "Ambiguous_D_G_R_f1_t2",
+        "Social": "Social_C_B_L_f2_t1"
+      }
+    },
+    "wxFyi7": {
+      "task_order": [
+        "Mime",
+        "Ritual",
+        "Competence",
+        "Social",
+        "Asocial",
+        "Ambiguous"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_R_f2_t2",
+        "Competence": "Competence_C_B_L_t2",
+        "Ritual": "Ritual_D_P_R_t2",
+        "Mime": "Mime_C_P_R_t2",
+        "Ambiguous": "Ambiguous_C_B_L_f1_t1",
+        "Social": "Social_D_B_L_f2_t1"
+      }
+    },
+    "54uGAP": {
+      "task_order": [
+        "Ritual",
+        "Mime",
+        "Ambiguous",
+        "Social",
+        "Asocial",
+        "Competence"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f1_t1",
+        "Competence": "Competence_D_B_R_t2",
+        "Ritual": "Ritual_D_O_R_t1",
+        "Mime": "Mime_D_G_L_t2",
+        "Ambiguous": "Ambiguous_D_G_R_f1_t1",
+        "Social": "Social_D_B_R_f1_t2"
+      }
+    },
+    "YNytVS": {
+      "task_order": [
+        "Asocial",
+        "Social",
+        "Ambiguous",
+        "Competence",
+        "Mime",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_B_L_f2_t2",
+        "Competence": "Competence_C_R_R_t2",
+        "Ritual": "Ritual_C_P_L_t2",
+        "Mime": "Mime_C_P_R_t1",
+        "Ambiguous": "Ambiguous_D_G_L_f1_t2",
+        "Social": "Social_D_P_R_f2_t1"
+      }
+    },
+    "nuzNKH": {
+      "task_order": [
+        "Mime",
+        "Ambiguous",
+        "Social",
+        "Ritual",
+        "Competence",
+        "Asocial"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_C_B_L_f1_t1",
+        "Competence": "Competence_D_B_L_t1",
+        "Ritual": "Ritual_C_P_R_t1",
+        "Mime": "Mime_D_P_L_t1",
+        "Ambiguous": "Ambiguous_D_G_L_f1_t2",
+        "Social": "Social_C_P_L_f1_t2"
+      }
+    },
+    "G5TqnB": {
+      "task_order": [
+        "Social",
+        "Competence",
+        "Mime",
+        "Ambiguous",
+        "Asocial",
+        "Ritual"
+      ],
+      "conditions": {
+        "Asocial": "Asocial_D_P_R_f1_t1",
+        "Competence": "Competence_C_R_L_t1",
+        "Ritual": "Ritual_D_P_L_t1",
+        "Mime": "Mime_D_G_R_t1",
+        "Ambiguous": "Ambiguous_D_G_L_f1_t1",
+        "Social": "Social_C_P_L_f1_t1"
+      }
+    }
+  },
+  "version": "2026-03-04"
+}

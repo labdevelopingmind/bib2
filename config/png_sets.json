@@ -1,0 +1,67 @@
+{
+    "set01": [
+      "img/png/set01/Ambiguous_C_BR.png",
+      "img/png/set01/Asocial_C_PR.png",
+      "img/png/set01/Competence_C_BL.png",
+      "img/png/set01/Mime_C_PL.png",
+      "img/png/set01/Ritual_C_OL.png",
+      "img/png/set01/Social_C_PR.png"
+    ],
+    "set02": [
+      "img/png/set02/Ambiguous_C_BL.png",
+      "img/png/set02/Asocial_C_PL.png",
+      "img/png/set02/Competence_C_BR.png",
+      "img/png/set02/Mime_C_PR.png",
+      "img/png/set02/Ritual_C_OR.png",
+      "img/png/set02/Social_C_PL.png"
+    ],
+    "set03": [
+      "img/png/set03/Ambiguous_C_GR.png",
+      "img/png/set03/Asocial_C_BR.png",
+      "img/png/set03/Competence_C_RL.png",
+      "img/png/set03/Mime_C_GL.png",
+      "img/png/set03/Ritual_C_PL.png",
+      "img/png/set03/Social_C_BR.png"
+    ],
+    "set04": [
+      "img/png/set04/Ambiguous_C_GL.png",
+      "img/png/set04/Asocial_C_BL.png",
+      "img/png/set04/Competence_C_RR.png",
+      "img/png/set04/Mime_C_GR.png",
+      "img/png/set04/Ritual_C_PR.png",
+      "img/png/set04/Social_C_BL.png"
+    ],
+    "set05": [
+      "img/png/set05/Ambiguous_D_BL.png",
+      "img/png/set05/Asocial_D_PL.png",
+      "img/png/set05/Competence_D_RR.png",
+      "img/png/set05/Mime_D_GR.png",
+      "img/png/set05/Ritual_D_PR.png",
+      "img/png/set05/Social_D_PL.png"
+    ],
+    "set06": [
+      "img/png/set06/Ambiguous_D_BR.png",
+      "img/png/set06/Asocial_D_PR.png",
+      "img/png/set06/Competence_D_RL.png",
+      "img/png/set06/Mime_D_GL.png",
+      "img/png/set06/Ritual_D_PL.png",
+      "img/png/set06/Social_D_PR.png"
+    ],
+    "set07": [
+      "img/png/set07/Ambiguous_D_GR.png",
+      "img/png/set07/Asocial_D_BR.png",
+      "img/png/set07/Competence_D_BL.png",
+      "img/png/set07/Mime_D_PL.png",
+      "img/png/set07/Ritual_D_OL.png",
+      "img/png/set07/Social_D_BR.png"
+    ],
+    "set08": [
+      "img/png/set08/Ambiguous_D_GL.png",
+      "img/png/set08/Asocial_D_BL.png",
+      "img/png/set08/Competence_D_BR.png",
+      "img/png/set08/Mime_D_PR.png",
+      "img/png/set08/Ritual_D_OR.png",
+      "img/png/set08/Social_D_BL.png"
+    ]
+
+  }
